@@ -1,0 +1,35 @@
+{
+    "generator-jhipster": {
+        "promptValues": {
+            "packageName": "com.mobelhaus.app"
+        },
+        "jhipsterVersion": "5.8.2",
+        "applicationType": "monolith",
+        "baseName": "mobelhaus",
+        "packageName": "com.mobelhaus.app",
+        "packageFolder": "com/mobelhaus/app",
+        "serverPort": "8080",
+        "authenticationType": "jwt",
+        "cacheProvider": "ehcache",
+        "enableHibernateCache": false,
+        "websocket": false,
+        "databaseType": "sql",
+        "devDatabaseType": "postgresql",
+        "prodDatabaseType": "postgresql",
+        "searchEngine": false,
+        "messageBroker": false,
+        "serviceDiscoveryType": false,
+        "buildTool": "gradle",
+        "enableSwaggerCodegen": false,
+        "jwtSecretKey": "MDUyMTIxNDY3OTk2ZDE2MmU3ODM3MDM5YzVmNzBjZTkwOTNhNGM0ZTU1NjgxZjI5YjE3MTZmZDY0NWY1ZWZlYzU4MmJhMzRhMWI3NDJjNjJmZjE5ZGRlN2JkZTcyZTAzOTgzYzM2NzQ4ZGNmNGExYThlYTgwNmQ4ZWIyMTZlNGU=",
+        "clientFramework": "angularX",
+        "useSass": true,
+        "clientPackageManager": "npm",
+        "testFrameworks": [],
+        "jhiPrefix": "jhi",
+        "entitySuffix": "",
+        "dtoSuffix": "DTO",
+        "otherModules": [],
+        "enableTranslation": false
+    }
+}
