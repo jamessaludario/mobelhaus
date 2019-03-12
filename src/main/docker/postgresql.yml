@@ -6,6 +6,6 @@ services:
         #     - ~/volumes/jhipster/mobelhaus/postgresql/:/var/lib/postgresql/data/
         environment:
             - POSTGRES_USER=mobelhaus
-            - POSTGRES_PASSWORD=
+            - POSTGRES_PASSWORD=mobelhaus
         ports:
             - 5432:5432
